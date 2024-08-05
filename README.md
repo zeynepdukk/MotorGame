@@ -29,8 +29,10 @@ Welcome to the Motorcycle Game! This is an Android game where players control a 
 
 3. **End of Game**: The game ends if the motorcycle collides with another car. Your final score will be displayed.
 ## ScreenShots
-![image](https://github.com/user-attachments/assets/2ce3730e-a5e5-4d7f-841a-8ed3b74bf2be)
-![image](https://github.com/user-attachments/assets/2f31fdb2-f4a2-4a5b-85bf-ae0723c11b62)
+![Ekran görüntüsü 2024-08-05 182503](https://github.com/user-attachments/assets/2cb14e6c-23b0-409d-9854-76404ad7c5a4)
+![image](https://github.com/user-attachments/assets/3182feb1-6bf8-4558-abec-7ddf70b4cadd)
+
+
 
 ## Project Structure
 
